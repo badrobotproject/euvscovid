@@ -7,6 +7,10 @@ Safe Workplace Robot is an AI-enabled software solution for keeping people safe 
 - Automatic contact-less high temperature detection checkpoints
 <img src="ai.jpg">
 
+## Demo videos
+https://www.youtube.com/watch?v=lLAvbUs2R-A
+https://www.youtube.com/watch?v=4G7wA5kU7aQ
+
 ## Objectives
 1. Make workplaces safe for employees
 2. Help companies and organizations prevent future shut-downs
