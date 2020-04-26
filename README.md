@@ -1,5 +1,5 @@
 ## About
-Safe Workplace Robot is an AI-enabled software solution for keeping people safe at their workplace.
+Safe Workplace Robot is an AI-enabled software solution for keeping people safe at their workplace
 
 ## Features
 - Automatic detection of people not wearing basic protection gear
@@ -12,4 +12,4 @@ Safe Workplace Robot is an AI-enabled software solution for keeping people safe 
 3. Assist the economy by keeping people healthy
 
 
-**This repo is work-in-progress for the pan-European #EUvsVIRUS hackathon - https://euvsvirus.org
+*This repo is work-in-progress for the pan-European #EUvsVIRUS hackathon - https://euvsvirus.org
