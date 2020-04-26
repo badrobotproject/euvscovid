@@ -8,8 +8,8 @@ Safe Workplace Robot is an AI-enabled software solution for keeping people safe 
 <img src="ai.jpg">
 
 ## Demo videos
-https://www.youtube.com/watch?v=lLAvbUs2R-A
-https://www.youtube.com/watch?v=4G7wA5kU7aQ
+[![Video 1](https://img.youtube.com/vi/lLAvbUs2R-A/0.jpg)](https://www.youtube.com/watch?v=lLAvbUs2R-A)
+[![Video 1](https://img.youtube.com/vi/4G7wA5kU7aQ/0.jpg)](https://www.youtube.com/watch?v=4G7wA5kU7aQ)
 
 ## Objectives
 1. Make workplaces safe for employees
